@@ -1,0 +1,46 @@
+{
+  "name": "insomnia-plugin-theme-ayu",
+  "author": {
+    "name": "Dinko Pehar",
+    "email": "dinko@pehar.dev",
+    "url": "https://pehar.dev"
+  },
+  "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "private": false,
+  "homepage": "https://github.com/dinko-pehar/insomnia-plugin-theme-ayu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinko-pehar/insomnia-plugin-theme-ayu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinko-pehar/insomnia-plugin-theme-ayu/issues"
+  },
+  "insomnia": {
+    "name": "theme-ayu",
+    "displayName": "Ayu Theme",
+    "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
+    "images": {
+      "icon": "./assets/icon.svg"
+    },
+    "publisher": {
+      "name": "Dinko Pehar"
+    }
+  },
+  "keywords": [
+    "ayu",
+    "ayu-theme",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "main": "dist/index.js",
+  "dependencies": {
+    "ayu": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "typescript": "^4.9.5"
+  }
+}
