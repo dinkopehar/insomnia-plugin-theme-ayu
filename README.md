@@ -1,4 +1,4 @@
-![](./assets/cover.svg)
+![](./assets/cover.png)
 
 ## Installation
 
