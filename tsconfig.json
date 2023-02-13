@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ESNext", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "target": "ES2018", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "module": "CommonJS", /* Specify what module code is generated. */
     "moduleResolution": "node16",
     "rootDir": "src", /* Specify the root folder within your source files. */
