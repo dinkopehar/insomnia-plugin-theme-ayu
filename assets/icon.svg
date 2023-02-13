@@ -1,0 +1,15 @@
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <rect fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <g>
+                <rect id="Rectangle" fill="#59C2FF" x="0" y="0" width="48" height="48"></rect>
+                <text id="ayu" font-family="Helvetica" font-size="26" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.04003906" y="32">ayu</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
