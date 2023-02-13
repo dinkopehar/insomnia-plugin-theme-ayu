@@ -1,5 +1,3 @@
-# insomnia-plugin-theme-ayu
-
 ![](./assets/cover.svg)
 
 ## Installation
