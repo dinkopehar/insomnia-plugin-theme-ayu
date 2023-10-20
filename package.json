@@ -7,15 +7,15 @@
   },
   "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
-  "homepage": "https://github.com/dinko-pehar/insomnia-plugin-theme-ayu",
+  "homepage": "https://github.com/dinkopehar/insomnia-plugin-theme-ayu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dinko-pehar/insomnia-plugin-theme-ayu.git"
+    "url": "git+https://github.com/dinkopehar/insomnia-plugin-theme-ayu.git"
   },
   "bugs": {
-    "url": "https://github.com/dinko-pehar/insomnia-plugin-theme-ayu/issues"
+    "url": "https://github.com/dinkopehar/insomnia-plugin-theme-ayu/issues"
   },
   "insomnia": {
     "name": "theme-ayu",
